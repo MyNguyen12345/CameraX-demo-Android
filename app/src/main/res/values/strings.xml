@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraX Demo</string>
+    <string name="todo">TODO</string>
+    <string name="_16_9">16:9</string>
+    <string name="_4_3">4:3</string>
+    <string name="image">image</string>
+    <string name="list_photo">LIST PHOTO</string>
+</resources>
